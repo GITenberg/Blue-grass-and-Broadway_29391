@@ -1,0 +1,27 @@
+_repo: Blue-grass-and-Broadway_29391
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Daviess, Maria Thompson
+    birthdate: 1872
+    deathdate: 1924
+    gutenberg_agent_id: '1284'
+    url: http://www.gutenberg.org/2009/agents/1284
+description: ''
+gutenberg_issued: '2009-07-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29391'
+  lccn: '19008740'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Broadway (New York, N.Y.) -- Fiction'
+- !lcc 'PS'
+title: Blue-grass and Broadway
+url: http://www.gutenberg.org/ebooks/29391
